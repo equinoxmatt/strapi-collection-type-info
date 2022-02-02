@@ -1,0 +1,21 @@
+{
+  "name": "strapi-plugin-collection-types-info",
+  "version": "0.0.0",
+  "description": "Provides endpoint with collection type information",
+  "strapi": {
+    "name": "Collection Types Info",
+    "icon": "plug",
+    "description": "Provides endpoint with collection type information"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Matthew Butterworth",
+    "email": "",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
